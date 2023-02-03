@@ -1,6 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 i am awesome
 =======
 i am awesome
 you are awesome
 >>>>>>> 8e1f0b90d5d2f42a0786ada2c69389dbce4ac35d
+=======
+i am awesome
+you are awesome
+we areawesome
+>>>>>>> e7af8baeed07a136fe94b681627e2787c4c16445
